@@ -1,0 +1,1 @@
+{"myString":"atest","myClasses":[{"id":1,"name":"Sword","price":100},{"id":2,"name":"Shield","price":50},{"id":3,"name":"Hp Potion","price":10}]}
